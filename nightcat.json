@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "teshi#9459",
+        "version": "1.0.0",
+        "name": "NightCat"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/raw.githubusercontent.com\/djario\/Aliucord_nightcat_theme\/main\/nightcat.jpeg"
+    },
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/djario\/Aliucord_nightcat_theme\/main\/font.ttf"
+    },
+    "simple_colors": {
+        "accent": -1258931,
+        "background": -16777216,
+        "background_secondary": -16777216,
+        "input_background": -529997
+    },
+    "colors": {},
+    "drawable_tints": {
+        "ic_channel_text_nsfw": -1330041
+    },
+    "raws": {}
+}
