@@ -7,6 +7,6 @@ Theme for [Aliucords](https://github.com/Aliucord/Aliucord) Themer Plugin.
  </a> 
  </p>
 
-[view](view.jpg)
+![view](view.jpg)
  
  
